@@ -1,0 +1,28 @@
+name: Love Is Being
+favicon: null
+layout_spectrum: 0.932170492829755
+typography_spectrum: 0.9032437666319311
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4709785559680313
+  lightness: 0.9779328904114664
+  saturation: 0.03676519310101867
+  rhythmicContrast: 0.023413388757035136
+purpose: []
